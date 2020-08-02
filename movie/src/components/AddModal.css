@@ -1,0 +1,9 @@
+.modalInput{
+    display: flex;
+    justify-content: space-between;
+    margin:2px;
+    color: white;
+}
+.clinput{
+  width: 70%;
+}
